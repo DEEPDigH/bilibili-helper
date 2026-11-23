@@ -1,0 +1,13 @@
+# Local dependencies and generated files
+node_modules/
+__pycache__/
+*.log
+*.zip
+*-test.png
+.env
+.env.*
+!.env.example
+# Local data and backups
+backups/
+history/
+*.backup
